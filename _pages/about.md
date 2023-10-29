@@ -11,6 +11,8 @@ redirect_from:
 I am a Professor at the University of California, Davis, where I currently serve as chair of the Department of Linguistics. I am additionally
 affiliated with the Computer Science graduate program, the Cognitive Science program, and the Computational Social Science designated emphasis.
 
+*Prospective students*: Please read [this](prospectivestudents.html) before sending me email.
+
 ## Research Interests
 
 - Computational Linguistics
